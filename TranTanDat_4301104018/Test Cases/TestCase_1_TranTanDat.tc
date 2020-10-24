@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase_1_TranTanDat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8e3f90d-818e-43f3-8504-c4c1e02a4607</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37998a87-e732-4f5c-808a-aeedaad6edb4</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
